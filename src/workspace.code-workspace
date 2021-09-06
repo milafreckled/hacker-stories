@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../calculator-of-profit"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "calculator-of-profit"
+	}
+}
